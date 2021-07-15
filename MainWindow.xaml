@@ -1,0 +1,12 @@
+﻿<Window x:Class="SoftKvmSwitch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SoftKvmSwitch"
+        mc:Ignorable="d"
+        Title="Soft KVM Switch" Height="450" Width="800" ShowInTaskbar="False" Initialized="Window_Initialized" Visibility="Hidden" StateChanged="Window_StateChanged">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Label x:Name="InfoLabel" FontSize="24">Soft KVM Switch 0.0.1</Label>
+    </Grid>
+</Window>
