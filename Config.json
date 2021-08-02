@@ -1,0 +1,22 @@
+﻿{
+  "Events": [
+    {
+      "KeyboardShortcuts": [
+        {
+          "Shortcut": "[AltGr]+[F4]"
+        }
+      ],
+      "DeviceRemovalTriggers": [
+        {
+          "UsbDeviceId": "{...}"
+        }
+      ],
+      "Actions": [
+        {
+          "Device": "",
+          "VideoSource": null
+        }
+      ]
+    }
+  ]
+}
