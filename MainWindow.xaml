@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="Soft KVM Switch" Height="450" Width="800" ShowInTaskbar="False" Initialized="Window_Initialized" Visibility="Hidden" StateChanged="Window_StateChanged">
     <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
-        <Label x:Name="InfoLabel" FontSize="24">Soft KVM Switch 0.0.2</Label>
+        <Label x:Name="InfoLabel" FontSize="24">Soft KVM Switch 0.0.3</Label>
     </Grid>
 </Window>
